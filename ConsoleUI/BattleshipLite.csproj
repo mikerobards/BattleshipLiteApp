@@ -49,5 +49,14 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BattleshipLiteLibrary\BattleshipLiteLibrary.csproj">
+      <Project>{FD5E53A8-C483-4CBD-B051-C6E5383EE151}</Project>
+      <Name>BattleshipLiteLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

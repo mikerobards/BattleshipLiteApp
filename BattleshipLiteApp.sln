@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleshipLiteLibrary", "BattleshipLiteLibrary\BattleshipLiteLibrary.csproj", "{FD5E53A8-C483-4CBD-B051-C6E5383EE151}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{BD0D0489-30A8-4C5C-B650-E08F68687784}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleshipLite", "ConsoleUI\BattleshipLite.csproj", "{BD0D0489-30A8-4C5C-B650-E08F68687784}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
