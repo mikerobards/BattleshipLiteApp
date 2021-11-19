@@ -102,6 +102,8 @@ namespace BattleshipLite
 
             }
             Console.WriteLine();
+            Console.WriteLine("--------------");
+            Console.WriteLine();
         }
 
         private static string AskForShot(PlayerInfoModel player)
